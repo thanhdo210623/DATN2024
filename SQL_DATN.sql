@@ -18,6 +18,7 @@ create table TaiKhoan(
 	HoVaTen nvarchar(100) not null,
 	Anh varchar(100),
 	DiaChi nvarchar(200)
+
 )
 
 ALTER TABLE TaiKhoan
